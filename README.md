@@ -53,11 +53,15 @@ Eftirfarandi skal biðja um í formi, hópað saman með `<fieldset>` og með vi
 
 Þegar ýtt er á takka gerist ekki neitt, þ.e.a.s. engin kóði keyrir og gögn eru ekki send neitt.
 
+Síðan skal hafa fyrirsögnina `Form`.
+
 ## Tafla
 
 Útbúa skal töflu með áföngum á tölvunarfræðideild. Gefin eru gögn með stuttu námskeiðsnúmeri, námskeiðsheiti, misseri og einingum.
 
 Gögn í töflu má nálgast í `gogn.csv`. Þar sem um margar línur af gögnum er að ræða er _ekki_ ráðlagt að setja gögnin handvirkt upp í ritli heldur skal nýta virkni í ritli til að breyta gögnum, sjá dæmi í fyrirlestri.
+
+Síðan skal hafa fyrirsögnina `Áfangar í tölvunarfræðideild HÍ 2018`.
 
 ## Texti
 
@@ -94,3 +98,14 @@ Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem he
 Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 3,5% hvert, samtals 28% af lokaeinkunn.
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 11%, samtals 22% af lokaeinkunn.
+
+---
+
+> Útgáfa 0.2
+
+### Útgáfusaga
+
+| Útgáfa | Lýsing                              |
+|--------|-------------------------------------|
+| 0.1    | Fyrsta útgáfa                       |
+| 0.2    | Setja inn titla fyrir form og töflu |
